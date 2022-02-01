@@ -23,5 +23,5 @@ function animateTheLivingHellOutOfIt() {
 
   tl.timeScale(1);
   //tl.seek(20)
-  tl.restart();
+  // tl.restart();
 }
